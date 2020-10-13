@@ -1,0 +1,12 @@
+nav {
+    height:50px;
+    background-color: lightblue;
+
+}
+.wrapper {
+    width: 400px;
+    height:200px;
+    text-align: center;
+    margin-left: 250px;
+    background-color: lightcoral;
+}
